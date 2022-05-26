@@ -1,0 +1,57 @@
+@import url(reset.css);
+body {
+    background-color: aqua;
+    z-index: -1;
+}
+.main {
+    width: 100%;
+    height: 378px;
+    background-color: #445162;
+}
+.fonform2 {
+    width: 100%;
+    height: 290px;
+    background-color: white;
+
+}
+.wrapper {
+    max-width: 1180px;
+    margin: 0px auto;
+}
+.textheader {
+background: url(../img/logo1.png) 100% center/471px 265px no-repeat;
+}
+
+.text1, .text2, .text3, .text4, .text5 {
+    color: white;
+}
+.chekicon {
+    margin-right: 12px;
+}
+.text1 {
+    padding-top: 55px;
+    font-size: 60px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.text2 {
+    font-size: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-top:40px;
+}
+.text3 {
+    margin-top: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+}
+.text4 {
+    margin-top: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+}
+.text5 {
+    margin-top: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+    padding-bottom: 55px;
+}
